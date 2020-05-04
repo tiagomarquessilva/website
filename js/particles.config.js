@@ -94,10 +94,10 @@ var particlesConfig = {
 			},
 			bubble: {
 				distance: 400,
-				size: 40,
-				duration: 2,
+				size: 15,
+				duration: 1,
 				opacity: 8,
-				speed: 3,
+				speed: 2,
 			},
 			repulse: {
 				distance: 200,
